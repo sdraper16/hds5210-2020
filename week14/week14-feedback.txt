@@ -1,0 +1,2 @@
+It didn't look to me like everything was running successfully based on errors in the output.  When I tried to run things, I couldn't because of the files you copied out of the /data directory.
+

@@ -1,0 +1,5 @@
+It looks like you struggled a bit with the database connectivity starting with changing the default username that I included in the code.  You didn't need to change that.
+
+In the next part, you started importing other libraries that weren't necessary.
+
+

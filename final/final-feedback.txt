@@ -1,0 +1,17 @@
+PART 1:
+Nice work.  Another option would have been to use Pandas read_html()
+
+PART 2:
+Good work.
+
+PART 3:
+Nice
+
+PART 4:
+Great, but a more efficient way to do this would be using the data frames more natively rather than looping through all of the locations one at a time.  Data frames are built to work all together w/o looping through every row.  -1
+
+PART 5:
+Nice work.
+
+PART 6:
+Thanks!  Have a great summer.
